@@ -1,5 +1,5 @@
 # Hola, mi nombre es JowiiProgrammer 👋
-### Freelance full-stack iOS & Android engineer
+### Freelance full-stack
 
 
 
