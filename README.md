@@ -21,7 +21,7 @@ Y alguna más...
 
 ## Retos de programación de la comunidad:
 
-#### Cada semana un nuevo reto para mejorar nuestra lógica de programación desde [retosdeprogramacion.com](https://retosdeprogramacion.com)
+#### Cada semana un nuevo reto para mejorar nuestra lógica de programación de la mano de MoureDev desde [retosdeprogramacion.com](https://retosdeprogramacion.com)
 
 
 #### Puedes apoyar mi trabajo haciendo "☆ Star" en el repo o nominarme a "GitHub Star". ¡Gracias!
